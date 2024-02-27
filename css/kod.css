@@ -1,0 +1,703 @@
+/* SAHIFA 1 */
+
+.sahifa1 {
+    width: 1690px;
+    height: 700px;
+    margin-top: 50px;
+    background-color: rgb(230, 228, 228);
+}
+
+.sahifa1_quti1 {
+    position: relative;
+    left: 200px;
+    top: 200px;
+    width: 600px;
+    height: 450px;
+    color: rgb(65, 65, 65);
+}
+
+.sahifa1_quti1 h2 {
+    color: rgb(65, 65, 65);
+    font-size: 20px;
+}
+
+.sahifa1_quti1 h1 {
+    font-size: 45px;
+    color: black;
+}
+
+.sahifa1_quti1 p {
+    font-family: Aptos;
+    font-size: 25px;
+    color: rgb(65, 65, 65);
+}
+
+.sahifa1_quti1 a {
+    color: rgb(65, 65, 65);
+}
+
+.sahifa1_quti1 button {
+    font-size: 20px;
+    width: 250px;
+    height: 60px;
+    margin-top: 50px;
+    background-color: rgb(255, 72, 0);
+    color: white;
+    border: none;
+    letter-spacing: 4px;
+}
+
+.sahifa1_quti1 button:hover {
+    background-color: rgb(31, 29, 29);
+}
+
+.rasm1 {
+    width: 800px;
+    height: 700px;
+    margin-left: 850px;
+    margin-top: -450px;
+}
+
+
+
+
+/* SAHIFA 2 */
+
+.sahifa2 {
+    position: absolute;
+    width: 1690px;
+    height: 1500px;
+    background-color: white;
+}
+
+.love__stik1 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    margin-left: 420px;
+    margin-top: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 72, 0);
+}
+
+.stik__H1 {
+    position: relative;
+    margin-left: 320px;
+    margin-top: 20px;
+}
+
+.love__stik1 svg {
+    margin-left: 15px;
+    margin-top: 15px;
+    color: rgb(221, 218, 218);
+}
+
+.stik__tag1 {
+    position: relative;
+    margin-left: -770px;
+    margin-top: 200px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.stik__rasm {
+    margin-left: 620px;
+    margin-top: -570px;
+}
+
+.stik__rasm img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+.from {
+    margin-left: 740px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.love__stik2 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 1150px;
+    margin-top: 220px;
+    background-color: rgb(255, 72, 0);
+}
+
+.stik__H2 {
+    margin-left: 1070px;
+    margin-top: 20px;
+}
+
+.love__stik2 svg {
+    margin-left: 13px;
+    margin-top: 15px;
+    color: rgb(221, 215, 215);
+}
+
+.stik__tag2 {
+    position: relative;
+    margin-left: 700px;
+    margin-top: -550px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pustoy {
+    width: 500px;
+    height: 800px;
+    margin-left: 350px;
+    margin-top: 130px;
+    background-color: rgb(220, 62, 0);
+}
+
+.sahifa2_rasm {
+    margin-left: 280px;
+    margin-top: -750px;
+}
+
+.sahifa2_rasm img {
+    width: 900px;
+    height: 600px;
+}
+
+.sahifa2_tag {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: -250px;
+    background-color: white;
+}
+
+.sahifa2_tag h3 {
+    letter-spacing: 6px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgb(65, 65, 65);
+}
+
+.sahifa2_tag h1 {
+    margin-left: 50px;
+    margin-top: 15px;
+    font-family: Arial Rounded;
+}
+
+.sahifa2_tag p {
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: Eras Medium ITC;
+}
+
+.sahifa2_tag h5 {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.sahifa2_tag button {
+    margin-left: 50px;
+    margin-top: 15px;
+    width: 210px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 72, 0);
+    letter-spacing: 4px;
+}
+
+.sahifa2_tag button:hover {
+    background-color: black;
+}
+
+
+
+
+/* SAHIFA 3 */
+
+.sahifa3 {
+    width: 1690px;
+    height: 1150px;
+    margin-top: 1718px;
+    background-color: rgb(220, 62, 0);
+}
+
+.rasm4 {
+    margin-top: 200px;
+}
+
+.rasm4 img {
+    width: 1690px;
+}
+
+.stiker1 {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    margin-left: 230px;
+    margin-top: -200px;
+    background-color: white;
+}
+
+.stiker1 img {
+    width: 100px;
+    height: 100px;
+}
+
+.stik1_1 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.stik1_1 h5 {
+    margin-top: 25px;
+    color: rgb(220, 62, 0);
+    letter-spacing: 3px;
+}
+
+.stik1_1 p {
+    margin-top: 15px;
+    font-family: Bodoni MT;
+    font-size: 19px;
+}
+
+.stiker2 {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    margin-left: 540px;
+    margin-top: -200px;
+    background-color: white;
+}
+
+.stiker2 img {
+    width: 100px;
+    height: 100px;
+}
+
+.stik1_2 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.stik1_2 h5 {
+    margin-top: 25px;
+    color: rgb(220, 62, 0);
+    letter-spacing: 3px;
+}
+
+.stik1_2 p {
+    margin-top: 15px;
+    font-family: Bodoni MT;
+    font-size: 19px;
+}
+
+.stiker3 {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    margin-left: 850px;
+    margin-top: -200px;
+    background-color: white;
+}
+
+.stiker3 img {
+    width: 100px;
+    height: 100px;
+}
+
+.stik1_3 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.stik1_3 h5 {
+    margin-top: 25px;
+    color: rgb(220, 62, 0);
+    letter-spacing: 3px;
+}
+
+.stik1_3 p {
+    margin-top: 15px;
+    font-family: Bodoni MT;
+    font-size: 19px;
+}
+
+.stiker4 {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    margin-left: 1160px;
+    margin-top: -200px;
+    background-color: white;
+}
+
+.stiker4 img {
+    width: 100px;
+    height: 100px;
+}
+
+.stik1_4 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.stik1_4 h5 {
+    margin-top: 25px;
+    color: rgb(220, 62, 0);
+    letter-spacing: 3px;
+}
+
+.stik1_4 p {
+    margin-top: 15px;
+    font-family: Bodoni MT;
+    font-size: 19px;
+}
+
+.sahifa3__oxiri {
+    margin-left: 770px;
+    margin-top: 160px;
+    color: white;
+    font-family: lighter;
+}
+
+.sahifa3__oxiri a {
+    color: white;
+}
+
+
+
+
+/* SAHIFA 4 */
+
+.sahifa4 {
+    width: 1690px;
+    height: 1200px;
+    background-color: white;
+}
+
+.sahifa4__text {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.sahifa4__text h1 {
+    font-size: 35px;
+    padding-left: 100px;
+    color: rgb(255, 72, 0);
+}
+
+.sahifa4__text p {
+    padding-left: 700px;
+    font-size: 20px;
+    margin-top: -95px;
+    color: rgb(65, 65, 65);
+}
+
+.sahifa4__text h6 {
+    padding-left: 700px;
+    font-size: 22px;
+    margin-top: 30px;
+    color: rgb(65, 65, 65);
+    font-family: lighter;
+}
+
+.sahifa4__text a {
+    color: rgb(65, 65, 65);
+}
+
+.sahifa4__text button {
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 22px;
+    width: 250px;
+    height: 60px;
+    letter-spacing: 4px;
+    background-color: rgb(255, 72, 0);
+    color: white;
+    border: none;
+}
+
+.sahifa4__text button:hover {
+    background-color: rgb(65, 65, 65);
+}
+
+.rasmlar {
+    width: 1220px;
+    height: 610px;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+
+.rasm1_1 img {
+    width: 600px;
+    height: 610px;
+}
+
+.rasm1_2 img {
+    width: 300px;
+    height: 300px;
+    margin-left: 610px;
+    margin-top: -949px;
+}
+
+.rasm1_3 img {
+    width: 300px;
+    height: 300px;
+    margin-left: 920px;
+    margin-top: -999px;
+}
+
+.rasm1_4 img {
+    width: 610px;
+    height: 300px;
+    margin-left: 610px;
+    margin-top: -425px;
+}
+
+
+
+
+/* SAHIFA 5 */
+
+.sahifa5 {
+    width: 1690px;
+    height: 860px;
+}
+
+.rasm5_5 img {
+    width: 1690px;
+    height: auto;
+    margin-top: -100px;
+}
+
+.quti {
+    position: relative;
+    width: 500px;
+    height: 450px;
+    background-color: rgb(248, 85, 64);
+    margin-top: -450px;
+    margin-left: 300px;
+}
+
+.quti h1 {
+    padding-top: 50px;
+    padding-left: 40px;
+    font-size: 54px;
+    color: white;
+}
+
+.quti p {
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 17px;
+    color: white;
+}
+
+.quti h6 {
+    padding-left: 40px;
+    color: white;
+    font-size: 20px;
+    font-family: lighter;
+}
+
+.quti a {
+    color: white;
+}
+
+.quti button {
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border: 2px white solid;
+    background-color: rgb(248, 85, 64);
+    color: white;
+    letter-spacing: 4px;
+}
+
+.quti button:hover {
+    background-color: white;
+    color: rgb(38, 38, 231);
+}
+
+
+
+
+/* SAHIFA 6 */
+
+.sahifa6 {
+    width: 1690px;
+    height: 1000px;
+    background-color: white;
+}
+
+.tt {
+    position: absolute;
+    width: 250px;
+    height: 90px;
+    margin-top: 70px;
+    margin-left: 720px;
+}
+
+.tt h1 {
+    font-size: 60px;
+}
+
+.s6__qutilar {
+    position: absolute;
+    width: 450px;
+    height: 600px;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+
+.s6__quti1 {
+    height: 200px;
+    color: rgb(133, 132, 132);
+}
+
+.s6__quti1 h3 {
+    color: rgb(82, 81, 81);
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.s6__quti1 p {
+    font-size: 19px;
+    padding-top: 15px;
+}
+
+.s6__quti1 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.s6__quti1 hr {
+    width: 80px;
+    border: 1.5px rgb(0, 0, 0) solid;
+    margin-top: -1px;
+}
+
+.s6__quti2 {
+    height: 200px;
+    color: rgb(133, 132, 132);
+}
+
+.s6__quti2 h3 {
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: rgb(82, 81, 81);
+}
+
+.s6__quti2 p {
+    font-size: 19px;
+    padding-top: 15px;
+}
+
+.s6__quti2 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.s6__quti2 hr {
+    width: 80px;
+    border: 1.5px rgb(0, 0, 0) solid;
+    margin-top: -1px;
+}
+
+.s6__quti3 {
+    height: 200px;
+    color: rgb(133, 132, 132);
+}
+
+.s6__quti3 h3 {
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: rgb(82, 81, 81);
+}
+
+.s6__quti3 p {
+    font-size: 19px;
+    padding-top: 15px;
+}
+
+.s6__quti3 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.s6__quti3 hr {
+    width: 80px;
+    border: 1.5px rgb(0, 0, 0) solid;
+    margin-top: -1px;
+}
+
+.rasm__quti {
+    position: absolute;
+    width: 450px;
+    height: 700px;
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 870px;
+}
+
+.rasm__quti img {
+    width: 450px;
+    height: auto;
+}
+
+.quti__text {
+    width: 350px;
+    height: 250px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.quote {
+    color: rgb(203, 201, 201);
+}
+
+.quti__text h3 {
+    color: black;
+    font-family: lighter;
+    margin-top: 25px;
+}
+
+
+
+
+/* SAHIFA 7 */
+
+.sahifa7 {
+    width: 1690px;
+    height: 300px;
+    background-color: rgb(49, 49, 49);
+
+}
+
+.sahifa7__oxiri {
+    position: absolute;
+    left: 700px;
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+}
+
+.sahifa7__sillka {
+    position: absolute;
+    left: 600px;
+    margin-top: 250px;
+    color: white;
+}
+
+.sahifa7__sillka a {
+    color: rgb(224, 138, 138);
+}
+
+
